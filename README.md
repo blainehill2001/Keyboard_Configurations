@@ -1,4 +1,4 @@
-# Keyboard_Configurations
+# Keyboard Configurations
 
 .vil file extension = [Vial](https://get.vial.today/)
 
@@ -17,7 +17,7 @@ so download [Charmstone](https://charmstone.app/) and set the hyperkey to your t
 
 ## Vim Customization
 
-#### Plugins
+### Plugins
 Some of the plugins I use managed by vim-plug
 
 * https://github.com/junegunn/fzf.vim
@@ -41,5 +41,53 @@ My file structure for vim is like so:
 ```
 
 where the regular ~/.vimrc only contain `runtime vimrc` to avoid symlinks.
+
+### Vim Cheat Sheet:
+
+Modes:
+- Normal Mode: Press Esc key.
+- Insert Mode: Press i to insert text.
+- Command-Line Mode: Press : to enter commands.
+
+Basic Navigation:
+- Move Cursor:
+  - Left: h
+  - Down: j
+  - Up: k
+  - Right: l
+- Page Navigation:
+  - Scroll Down: Ctrl + f
+  - Scroll Up: Ctrl + b
+  - Go to Top: gg
+  - Go to Bottom: G
+- Jump:
+  - To Beginning of Line: 0
+  - To End of Line: $
+  - To Specific Line: :<line number>
+- Search:
+  - Forward: /
+  - Backward: ?
+- Navigate Between Files:
+  - Open File: :e <file path>
+  - Next File: :n
+  - Previous File: :N
+
+Basic Commands:
+- Save: :w
+- Quit: :q
+- Save and Quit: :wq or :x
+- Copy: yy
+- Cut: dd
+- Paste: p
+
+Undo:
+- Undo: u
+- Redo: Ctrl + r
+
+Advanced:
+- Find and Replace: :%s/search/replace/g
+- Split Screen: :split <file>
+- Close Split: :q
+
 
 
