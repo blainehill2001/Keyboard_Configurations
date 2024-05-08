@@ -90,4 +90,19 @@ Advanced:
 - Close Split: :q
 
 
+## General Helpful Programming Applications
+
+* [Warp](https://www.warp.dev/)
+* Anaconda for python env management (via [Miniforge](https://github.com/conda-forge/miniforge))
+* [Fish](https://fishshell.com/) for shell
+* [pre-commit](https://pre-commit.com/) for commit hooks
+
+### Chrome Extensions
+* [Momentum](https://chromewebstore.google.com/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca)
+* [AdBlock](https://chromewebstore.google.com/detail/adblock-%E2%80%94-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom)
+* [Vytal](https://chromewebstore.google.com/detail/vytal-spoof-timezone-geol/ncbknoohfjmcfneopnfkapmkblaenokb) for more secure VPN timezone, geolocation spoofing
+* [Medium Unlocker](https://github.com/und3fined/medium-unlocker)
+* [AwardTravel](https://chromewebstore.google.com/detail/awardtravel/olkajojhnkcmkfpkblpicjmhcajamncd) to add onto Google Flights for credit card reward points
+* [React Dev Tools](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en-US&utm_source=ext_sidebar)
+
 
