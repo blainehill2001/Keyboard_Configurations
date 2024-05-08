@@ -12,4 +12,34 @@ I use [Lunar](https://lunar.fyi/). Additionally for MacOS multi-monitor support,
 
 To map Caps Lock to Escape (alone) or Hyperkey ⌃⌥⇧⌘ in MacOS only for vim, download Karabiner Elements and use this [Complex Modification](https://ke-complex-modifications.pqrs.org/#caps_lock_to_hyper_or_esc_if_alone)
 
-Also download [Charmstone](https://charmstone.app/) and set the hyperkey to your trigger.
+so download [Charmstone](https://charmstone.app/) and set the hyperkey to your trigger. Up=Finder, Right=Spotify, Down=Chrome, Left=Cursor.
+
+
+## Vim Customization
+
+#### Plugins
+Some of the plugins I use managed by vim-plug
+
+* https://github.com/junegunn/fzf.vim
+* https://github.com/junegunn/gv.vim
+* https://vimawesome.com/plugin/rainbow-parentheses-vim-all-too-well
+* https://github.com/rstacruz/vim-closer
+* https://github.com/tpope/vim-fugitive
+* https://github.com/tpope/vim-sensible
+* https://github.com/airblade/vim-gitgutter
+* https://github.com/vim-scripts/ReplaceWithRegister
+* https://github.com/inkarkat/vim-ReplaceWithSameIndentRegister
+
+My file structure for vim is like so:
+
+```
+~/
+---- .vim/
+---- ---- (plugins and stuff)
+---- ---- vimrc
+---- .vimrc
+```
+
+where the regular ~/.vimrc only contain `runtime vimrc` to avoid symlinks.
+
+
