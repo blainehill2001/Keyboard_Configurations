@@ -14,6 +14,7 @@ To map Caps Lock to Escape (alone) or Hyperkey ⌃⌥⇧⌘ in MacOS only for vi
 
 so download [Charmstone](https://charmstone.app/) and set the hyperkey to your trigger. Up=Finder, Right=Spotify, Down=Chrome, Left=Cursor.
 
+Use [Rectangle](https://rectangleapp.com/) to speed up window sizing with keyboard shortcuts.
 
 ## Vim Customization
 
