@@ -16,6 +16,12 @@ so download [Charmstone](https://charmstone.app/) and set the hyperkey to your t
 
 Use [Rectangle](https://rectangleapp.com/) to speed up window sizing with keyboard shortcuts.
 
+See these diagrams for my exact setups
+
+<img width="567" alt="Screenshot 2024-06-03 at 11 31 56 PM" src="https://github.com/blainehill2001/Keyboard_Configurations/assets/44901957/86ea7a92-a2d4-4d1f-b1ed-db520b800112">
+<img width="766" alt="Screenshot 2024-06-03 at 11 31 29 PM" src="https://github.com/blainehill2001/Keyboard_Configurations/assets/44901957/0e5f5ce0-9fe2-4dcd-b5ac-6babff844e64">
+
+
 ## Vim Customization
 
 ### Plugins
