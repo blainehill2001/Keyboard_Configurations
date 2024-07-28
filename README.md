@@ -10,6 +10,8 @@ I use [Lunar](https://lunar.fyi/). Additionally for MacOS multi-monitor support,
 
 ## MacOS Mappings
 
+To start, map F17 to Sleep so that you have a key to shut off all screens. Go to System Settings, search for "keyboard shortcuts", go to App Shortcuts, add "Sleep" under Menu Title, and then tap F17 for it to register. Ensure you test it out.
+
 To map Caps Lock to Escape (alone) or Hyperkey ⌃⌥⇧⌘ in MacOS only for vim, download Karabiner Elements and use this [Complex Modification](https://ke-complex-modifications.pqrs.org/#caps_lock_to_hyper_or_esc_if_alone)
 
 so download [Charmstone](https://charmstone.app/) and set the hyperkey to your trigger. Up=Finder, Right=Spotify, Down=Chrome, Left=Cursor.
